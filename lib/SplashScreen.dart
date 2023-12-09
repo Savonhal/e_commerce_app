@@ -57,7 +57,7 @@ class _SplashScreenState extends State<SplashScreen>
               FlutterLogo(size: 100.0),
               SizedBox(height: 24.0),
               Text(
-                'Commercio',
+                'Commerce App',
                 style: TextStyle(
                   color: Colors.white,
                   fontSize: 24.0,
